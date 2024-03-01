@@ -1,7 +1,7 @@
 export const currencyByRupee: Currency[] = [
     {
       name: 'DOLLAR',
-      value: 0.012271428,
+      value: 60,
       flag: '🇺🇸',
       symbol: '$',
     },

@@ -29,8 +29,9 @@ const styles = StyleSheet.create({
         marginBottom: 4,
     },
     country:{
-        fontSize: 14,
+        fontSize: 12,
         color: '#2d3436',
+        paddingBottom: 4,
         
     }
 
