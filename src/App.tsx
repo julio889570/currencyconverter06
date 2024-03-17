@@ -13,6 +13,10 @@ import {
   View,
 } from 'react-native';
 
+
+
+
+                   
 //Constants 
 import {currencyByRupee} from './constants'
 //component
